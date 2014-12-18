@@ -18,5 +18,3 @@ Level.setGamemode(1);
 }
 
 }
-
-}
